@@ -1,0 +1,12 @@
+@font-face { 
+    font-weight: 700;
+    font-family: "CircularStdMedium";
+    src: url("../fonts/CircularStdMedium/CircularStd-Bold.ttf") format("truetype");
+}
+
+@font-face { 
+    font-weight: 400;
+    font-family: "ProximaNovaRegular";
+    src: url("../fonts/ProximaNova/ProximaNovaRegular.ttf") format("truetype");
+}
+
